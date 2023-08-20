@@ -7,7 +7,7 @@
 ---
 ## Section 2
 **Picture**   
-![This is my picture info.](random.png)   
+![This is my picture info.](./resources/random.png)   
 
 ---
 ---
